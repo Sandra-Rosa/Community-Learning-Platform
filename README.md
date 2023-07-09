@@ -4,9 +4,9 @@
  
 ## Team members:
 
-**1.** [ANUSHA JOSEPH](https://github.com/anushajoseph)<br/>
-**2.** [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)<br/>
-**3.** [ABHIN MURALI V](https://github.com/Abhinmurali108)
+[ANUSHA JOSEPH](https://github.com/anushajoseph)<br/>
+[SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)<br/>
+[ABHIN MURALI V](https://github.com/Abhinmurali108)
 
 ## Problem Statement:
 
