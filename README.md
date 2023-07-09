@@ -1,6 +1,6 @@
 # LEARNSQUAD
 
-<p>Welcome to our Learning Community Platform, where knowledge knows no boundaries! We believe in the power of collective learning and collaboration. Join our vibrant community of learners, educators, and experts to embark on a transformative educational journey. Access a diverse range of resources, engage in lively discussions, and unleash your potential through shared learning experiences. Let's connect, grow, and inspire each other to reach new heights of knowledge and skills. Together, we can make learning an exciting and enriching adventure. Join us today and let's learn, connect, and thrive together!</p>
+<p>Hey there! We’re excited to present Learn Squad, our online community platform. Our goal is to develop an open-source digital platform that enables communities to collaborate, learn, and share resources. We've designed a basic front end, but our main focus was on the Figma prototype. I'll walk you through the different pages, such as the signup and login pages, the user profile, the courses registry, quiz page and the discussions page. We've also added an innovative feature - collaboration with Chat GPT, to make learning easier. Additionally, we have a study groups page where you can create groups and study together. Take a look and let us know what you think! We plan to develop this platform using MERN stack.</p>
  
 ## Team members:
 
