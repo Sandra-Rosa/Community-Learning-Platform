@@ -10,12 +10,21 @@
 
 ## Problem Statement:
 
-How can we develop an open-source digital platform that enables communities to collaborate, learn, and share resources? The platform should facilitate knowledge exchange, provide a space for community-based learning, and empower individuals to contribute and access valuable educational content.
+How can we develop an open-source digital platform that enables communities to collaborate, learn, and share resources? 
+The platform should facilitate knowledge exchange, provide a space for community-based learning, and empower individuals to contribute and access valuable educational content.
 
 ## Figma Prototype:
 
 https://www.figma.com/file/OBoVeIGod6uvqg8iQiCVTE/LearnSquad?type=design&node-id=0%3A1&mode=design&t=UNwefP6mub1rXg0A-1
 
 ## Link to product walkthrough:
- 
-https://www.loom.com/
+
+https://www.loom.com/share/10602ad6ba39470389111aebc780b42c?sid=17c6e55a-dd4d-4a5f-a620-996908afe4d1
+
+## Future scope:
+
+- Project Based Learning
+- Gamification (Providing badges and certificates)
+- Progress chart to analyze the progress throughout a year
+- Conduct hackathons and other challenges 
+
